@@ -328,7 +328,7 @@
 
 @media (max-width: 768px) {
   .image {
-    max-width: 120px; /* Further reduce image size */
+    max-width: 100%; /* Further reduce image size */
   }
 
   .text-section h1 {
